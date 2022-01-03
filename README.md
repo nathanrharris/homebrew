@@ -15,4 +15,4 @@ Add Packages:
 
 Install Packages from Brewfile
 
-``` brew bundle | sh```
+``` brew bundle```
