@@ -10,9 +10,9 @@ Check out repository into /<home>/Homebrew
 
 Add Packages:
 
-```brew install package
+```brew install package```
 
-brew bundle dump -f```
+```brew bundle dump -f```
 
 Install Packages from Brewfile
 
