@@ -5,7 +5,7 @@ Install Homebrew:
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
-Check out repository into /<home>/Homebrew
+Check out repository into /\<home\>/Homebrew
 
 Add Packages:
 
