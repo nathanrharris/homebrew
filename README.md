@@ -7,6 +7,10 @@ Install Homebrew:
 
 Check out repository into /\<home\>/Homebrew
 
+Link global Brewfile:
+
+```ln -s ~/Homebrew/Brewfile ~/.Brewfile```
+
 Add Packages:
 
 ```brew install package```
