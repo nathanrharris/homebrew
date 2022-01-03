@@ -15,7 +15,7 @@ Link global Brewfile:
 
 Add Packages:
 
-```brew install package```
+```brew install <package>```
 
 ```brew bundle dump -f```
 
