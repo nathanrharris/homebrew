@@ -1,6 +1,5 @@
 # homebrew
-Homebrew config that I use locally.
-
+This repo is for storing the Homebrew config I use on all of my computers.
 
 Install Homebrew: 
 
